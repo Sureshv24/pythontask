@@ -1,3 +1,10 @@
+# Printing personal details
+print("Name: Suresh")
+print("College Name: ABC College")
+print("City: Arni")
+
+# this is for single line comment
+
 """
 Multi-line comment:
 This program prints personal details,
@@ -6,12 +13,6 @@ performs string concatenation,
 and demonstrates type casting.
 """
 
-# Printing personal details
-print("Name: Suresh")
-print("College Name: ABC College")
-print("City: Arni")
-
-print("\n--- Variables ---")
 
 # Creating variables
 name = "Suresh"
@@ -25,7 +26,7 @@ print("Age =", age)
 print("Percentage =", percentage)
 print("College =", college)
 
-print("\n--- Data Types ---")
+
 
 # Variables of different data types
 integer_var = 100
@@ -46,18 +47,16 @@ print("Type of String:", type(string_var))
 print("Boolean Value:", boolean_var)
 print("Type of Boolean:", type(boolean_var))
 
-print("\n--- String Concatenation ---")
+
 
 # String concatenation
 str1 = "Hello "
 str2 = "World"
 result = str1 + str2
 
-print("String 1:", str1)
-print("String 2:", str2)
 print("Concatenated String:", result)
 
-print("\n--- Type Casting ---")
+
 
 # String to Integer
 str_num = "100"
