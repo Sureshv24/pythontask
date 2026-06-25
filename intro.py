@@ -27,7 +27,6 @@ print("Percentage =", percentage)
 print("College =", college)
 
 
-
 # Variables of different data types
 integer_var = 100
 float_var = 99.99
@@ -48,15 +47,12 @@ print("Boolean Value:", boolean_var)
 print("Type of Boolean:", type(boolean_var))
 
 
-
 # String concatenation
 str1 = "Hello "
 str2 = "World"
 result = str1 + str2
 
 print("Concatenated String:", result)
-
-
 
 # String to Integer
 str_num = "100"
