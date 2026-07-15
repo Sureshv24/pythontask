@@ -1,0 +1,8 @@
+Python is easy.
+Python supports OOP.
+Python is platform independent.
+Python has simple syntax.
+Python is easy to understand.
+Python is used for Web Development.
+Python is used for Data Science.
+Python is open source.
